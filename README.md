@@ -1,4 +1,5 @@
 # Ajay-
 Project for becoming rich
 <br>
-discipline first
+discipline first 
+consistency matters
